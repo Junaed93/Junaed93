@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=👨‍💻+Computer+Science+and+Engineering+Student;🚀+Full+Stack+Developer;💻+System+Design;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+and+Engineering+Student;🚀+Full+Stack+Developer;💻+System+Design;👾+Game+Developer+(Unity)">
   </a>
 </p>
 
@@ -12,7 +12,6 @@
 
 - 👨‍🎓 I'm a CSE student at **United International University (UIU)** 🇧🇩
 - 💻  Passionate about **Full Stack Development**
-- 🔋 Backend-focused with **Spring Boot, JWT, REST APIs**
 - 🚀 Actively building and shipping projects
 - 💡 Always learning new technologies
 
@@ -82,7 +81,7 @@
 ## 💼 Projects & Source Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=Junaed93&amp;theme=tokyonight&amp;layout=compact&amp;limit=8" alt="Top Repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=Junaed93&theme=tokyonight&layout=compact&limit=8" alt="Top Repositories" />
 </p>
 
 <p align="center">
@@ -123,7 +122,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Junaed93&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Junaed93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
