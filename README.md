@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Junaed Khandakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=👨‍💻+Computer+Science+and+Engineering+Student;🚀+Full+Stack+Developer;💻+System+Design;👾+Game+Developer+(Unity)">
-  </a>
-</p>
+
 
 ---
 
@@ -78,21 +74,16 @@
   <a href="#"><img src="https://img.shields.io/badge/SkillBridge-Learning%20Platform-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 </p>
 
-## 💼 Projects & Source Code
+---
 
+## GitHub Stats and Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=Junaed93&theme=tokyonight&layout=compact&limit=8" alt="Top Repositories" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Junaed93?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
+  <img src="https://yourinsights.vercel.app/api/insight?username=Junaed93&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p>
 <a href="https://www.linkedin.com/in/junaed-khandakar-981986285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -110,21 +101,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-[![Junaed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaed93&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Junaed93&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Junaed93&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Junaed93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
 
 ---
 
