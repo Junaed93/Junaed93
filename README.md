@@ -8,7 +8,6 @@
 
 - 👨‍🎓 I'm a CSE student at **United International University (UIU)** 🇧🇩
 - 💻  Passionate about **Full Stack Development**
-- 🚀 Actively building and shipping projects
 - 💡 Always learning new technologies
 
 ---
