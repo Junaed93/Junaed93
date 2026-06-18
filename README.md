@@ -7,7 +7,7 @@
 ### ⚡ About Me
 
 - 👨‍🎓 I'm a CSE student at **United International University (UIU)** 🇧🇩
-- 💻  Passionate about **Full Stack Development**
+- 💻  Passionate **Software Engineer** **Game Developer** **Full Stack Developer**
 - 💡 Always learning new technologies
 
 ---
@@ -34,16 +34,16 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 📲 Mobile & Desktop Development
+### 📲 Mobile App Development
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### 🔋 Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
@@ -104,4 +104,4 @@
 
 ---
 
-<h3 align="center">⚡ Building systems, web apps, and ideas — one commit at a time ⚡</h3>
+<h3 align="center">Let it happen</h3>
