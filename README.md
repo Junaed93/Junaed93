@@ -65,16 +65,6 @@
 
 ---
 
-## 🌍 Live Projects
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Stranded%20Sky-Game%20Project-FF4081?style=for-the-badge&logo=unity&logoColor=white" /></a><br>
-  <a href="#"><img src="https://img.shields.io/badge/Unity%20WebGL%20Backend-System-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a><br>
-  <a href="#"><img src="https://img.shields.io/badge/SkillBridge-Learning%20Platform-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-</p>
-
----
-
 ## GitHub Stats and Streak
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Junaed93&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
